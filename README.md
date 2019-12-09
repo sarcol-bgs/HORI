@@ -30,6 +30,10 @@ accordingly.
 
 ## Slant well
 
+<p align="center">
+  <img width="350" src="Slant.jpg">
+</p>
+
 * The tool uses the method of Williams (2013) with the Cooper and Jacob (1946) equation for transient flow in a confined aquifer. If the “maximum drawdown” is greater than 15% of the aquifer thickness, the equation is no longer valid for an unconfined aquifer and the “maximum drawdown” is shown in red.
 * The “number of point sinks ” is the number of sinks used to represent each lateral.
 
