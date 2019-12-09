@@ -1,4 +1,4 @@
-# HORI: Software for horizontal and radial collector wells
+# HORI: Software for estimating drawdown around horizontal and radial collector wells
 
 Collins, S. and Houben, G. (2019). Horizontal and radial collector wells: simple tools for a complex problem. *Hydrogeology Journal*.
 
