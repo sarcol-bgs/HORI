@@ -13,7 +13,7 @@ HORI requires that the MATLAB Runtime version 9.0.1 (R2016a) is installed ([see 
 ## Radial collector well
 
 <p align="center">
-  <img width="800" src="HPfigure3.jpg">
+  <img width="800" src="HPfigure4.jpg">
 </p>
 
 * The equation of Hantush and Papadopulos (1962) (HP in interface) or Williams (2013)
