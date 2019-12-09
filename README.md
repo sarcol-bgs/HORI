@@ -8,29 +8,5 @@ Collins, S. and Houben, G. (2019). Horizontal and radial collector wells: simple
 
 ## Installation
 
-1. Prerequisites for Deployment 
-
-* Verify the MATLAB Runtime is installed and ensure you    
-  have installed version 9.0.1 (R2016a).   
-
-* If the MATLAB Runtime is not installed, do the following:
-  1. enter
-  
-      >>mcrinstaller
-      
-      at MATLAB prompt. The MCRINSTALLER command displays the 
-      location of the MATLAB Runtime installer.
-
-  2. run the [MATLAB Runtime installer] (https://uk.mathworks.com/products/compiler/matlab-runtime.html).
-
-Or download the Windows 64-bit version of the MATLAB Runtime for R2016a 
-from the MathWorks Web site by navigating to
-
-   http://www.mathworks.com/products/compiler/mcr/index.html
-   
-   
-For more information about the MATLAB Runtime and the MATLAB Runtime installer, see 
-Package and Distribute in the MATLAB Compiler documentation  
-in the MathWorks Documentation Center.    
-
+HORI requires that the MATLAB Runtime version 9.0.1 (R2016a) is installed ([see Mathworks](https://uk.mathworks.com/products/compiler/matlab-runtime.html)). Running the file *MyAppInstaller_web.exe* will install both HORI and the MATLAB runtime installer on to your computer. If you already have MATLAB runtime installed, you can instead run *HORI.exe* straightaway.    
 
