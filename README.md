@@ -12,6 +12,10 @@ HORI requires that the MATLAB Runtime version 9.0.1 (R2016a) is installed ([see 
 
 ## Radial collector well
 
+<p align="center">
+  <img width="400" src="HPfigure.jpg">
+</p>
+
 * The equation of Hantush and Papadopulos (1962) (HP in interface) or Williams (2013)
 can be used to calculate drawdown around a well in a confined or unconfined aquifer.
 * Setting the “z coordinate” to -1 will give the 2D solution of the Hantush and
