@@ -1,3 +1,3 @@
 # HORI: Software for horizontal and radial collector wells
 
-![RCW](/RCW.jpg)
+![](/RCW.jpg =100x20)
